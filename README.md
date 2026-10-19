@@ -1,19 +1,21 @@
-<div align="center">
+ <div align="center">
 
-# Hi, I'm Mahmoud ElSayed 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Mahmoud%20ElSayed&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20%7C%20Cloud%20Engineering%20%7C%20Automation&descSize=16&descAlignY=55" width="100%"/>
 
-### ☁️ DevOps & Cloud Engineer 
+# Hi there, I'm Mahmoud 👋
+
+### DevOps & Cloud Engineering Enthusiast ☁️
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Mahmoudelsa7ed&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views"/>
+  <a href="https://www.linkedin.com/in/mahmoudabdelgelil">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Mahmoudelsa7ed">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
-<a href="https://www.linkedin.com/in/mahmoudabdelgelil">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/Mahmoudelsa7ed">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=Mahmoudelsa7ed&style=flat-square&color=0e75b6&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -21,78 +23,156 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Systems student at **Ain Shams University**, passionate about Cloud Computing, DevOps, Linux, and Automation.
+I'm Mahmoud ElSayed, a **Computer Systems student at Ain Shams University**, interested in Cloud Computing, DevOps Engineering, Linux, and Infrastructure Automation.
 
-I'm building my skills through hands-on practice and practical projects, with a focus on understanding how to build, deploy, automate, and maintain reliable systems.
+I enjoy understanding how systems work, solving technical problems, and turning manual tasks into repeatable workflows.
 
-- 🔭 Currently focusing on **Linux, Git, and DevOps fundamentals**
-- ☁️ Interested in **AWS Cloud and Cloud Infrastructure**
-- 🐧 Exploring **Linux Administration and Bash Scripting**
-- 🚀 Learning about **Docker, CI/CD, and Infrastructure as Code**
-- 🎯 Goal: Become a skilled **Cloud & DevOps Engineer**
-- 📚 Always learning and building new things
+- 🐧 Exploring Linux and system administration.
+- 🔧 Practicing Git, GitHub, and collaborative development.
+- ☁️ Building my foundation in Cloud Computing and AWS.
+- ⚙️ Interested in automation, CI/CD, containers, and Infrastructure as Code.
+- 🚀 Learning by building practical projects and documenting what I discover.
 
----
-
-## 🛠️ Technologies & Tools
-
-### 🐧 Operating Systems & Scripting
-
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</p>
-
-### 🔧 Version Control & Development
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
-</p>
-
-### ☁️ Cloud & DevOps
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-</p>
-
-> I'm continuously learning and expanding my Cloud & DevOps skill set through practical exercises and projects.
+My goal is to develop the skills needed to build, deploy, and maintain reliable cloud infrastructure.
 
 ---
 
-## 🗺️ My DevOps Learning Roadmap
+## 🛠️ Tech Stack
 
-```text
-Linux & Operating Systems
-          |
-          v
-      Git & GitHub
-          |
-          v
- Bash Scripting & Automation
-          |
-          v
- Docker & Containers
-          |
-          v
-     CI/CD Pipelines
-          |
-          v
-      AWS Cloud
-          |
-          v
- Terraform & Infrastructure as Code
-          |
-          v
- Kubernetes & Orchestration
-          |
-          v
- Monitoring, Logging & Reliability
+### Operating Systems & Scripting
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,python" alt="Linux, Ubuntu, Bash, Python"/>
+</p>
+
+### Version Control & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code"/>
+</p>
+
+### Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions" alt="AWS, Docker, Kubernetes, Terraform, GitHub Actions"/>
+</p>
+
+*I'm continuously developing my skills in these technologies. The Cloud & DevOps tools represent my learning interests and areas of focus, not necessarily production experience.*
+
+---
+
+## ⚙️ How I Think About DevOps
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Plan-203A43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Code-203A43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Build-203A43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Test-203A43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deploy-203A43?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Monitor-203A43?style=for-the-badge"/>
+
+</div>
+
+I’m interested in the practices that make software delivery more consistent and infrastructure easier to manage:
+
+- **Automation:** Reduce repetitive manual work with scripts and tools.
+- **Version Control:** Track changes and collaborate effectively using Git.
+- **CI/CD:** Make building, testing, and deploying applications more reliable.
+- **Cloud Infrastructure:** Understand how to provision and manage cloud resources.
+- **Monitoring:** Learn how to observe systems, investigate failures, and improve reliability.
+
+---
+
+## 🚀 Featured Projects
+
+Here are the areas where I'm building practical experience.
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🐧 Linux & Bash</h3>
+      <p>Hands-on Linux exercises, command-line tools, file permissions, and shell scripting.</p>
+      <p><b>Focus:</b> Linux · Ubuntu · Bash</p>
+    </td>
+    <td width="50%">
+      <h3>🔧 Git & GitHub</h3>
+      <p>Version control practice, repository management, SSH authentication, and collaboration workflows.</p>
+      <p><b>Focus:</b> Git · GitHub · SSH</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>☁️ Cloud Engineering</h3>
+      <p>Developing practical knowledge of cloud services, infrastructure, and deployment concepts.</p>
+      <p><b>Focus:</b> AWS · Cloud Fundamentals</p>
+    </td>
+    <td width="50%">
+      <h3>⚙️ DevOps Automation</h3>
+      <p>Exploring scripting, containerization, and automated software delivery workflows.</p>
+      <p><b>Focus:</b> Bash · Docker · CI/CD</p>
+    </td>
+  </tr>
+</table>
+
+> Project links will be added as the repositories become available. Check my repositories for new work and updates.
+
+---
+
+## 🔥 What I'm Working On
+
+- Strengthening my Linux and command-line fundamentals.
+- Improving my Git and GitHub workflow.
+- Practicing automation with Bash scripting.
+- Learning Cloud Computing and AWS fundamentals.
+- Exploring Docker and CI/CD through hands-on exercises.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mahmoudelsa7ed&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoudelsa7ed&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Mahmoudelsa7ed&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+## 🎯 My Engineering Principles
+
+- **Learn by doing** — turn concepts into hands-on practice.
+- **Automate the repetitive** — make workflows easier to repeat.
+- **Understand the fundamentals** — know why a tool works, not just how to use it.
+- **Document the process** — make solutions easier to understand and reproduce.
+- **Keep improving** — learn from errors and build better solutions.
+
+---
+
+## 🤝 Let's Connect
+
+Interested in Cloud Computing, DevOps, Linux, or collaborating on technical projects? Feel free to connect with me.
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mahmoudabdelgelil">
+  <img src="https://img.shields.io/badge/LinkedIn-Mahmoud_ElSayed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Mahmoudelsa7ed">
+  <img src="https://img.shields.io/badge/GitHub-Mahmoudelsa7ed-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**Building skills. Automating workflows. Exploring the cloud. ☁️**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%"/>
+
+</div>
