@@ -98,17 +98,7 @@ I’m interested in the practices that make software delivery more consistent an
 
 </div>
 
----
 
-## 🎯 My Engineering Principles
-
-- **Learn by doing** — turn concepts into hands-on practice.
-- **Automate the repetitive** — make workflows easier to repeat.
-- **Understand the fundamentals** — know why a tool works, not just how to use it.
-- **Document the process** — make solutions easier to understand and reproduce.
-- **Keep improving** — learn from errors and build better solutions.
-
----
 
 ## 🤝 Let's Connect
 
@@ -122,6 +112,14 @@ Interested in Cloud Computing, DevOps, Linux, or collaborating on technical proj
 
 <a href="https://github.com/Mahmoudelsa7ed">
   <img src="https://img.shields.io/badge/GitHub-Mahmoudelsa7ed-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/201205870182">
+  <img src="https://img.shields.io/badge/WhatsApp-Connect-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+
+<a href="mailto:mahmooodalsaid333@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <br/><br/>
