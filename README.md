@@ -82,52 +82,7 @@ I’m interested in the practices that make software delivery more consistent an
 - **Cloud Infrastructure:** Understand how to provision and manage cloud resources.
 - **Monitoring:** Learn how to observe systems, investigate failures, and improve reliability.
 
----
 
-## 🚀 Featured Projects
-
-Here are the areas where I'm building practical experience.
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🐧 Linux & Bash</h3>
-      <p>Hands-on Linux exercises, command-line tools, file permissions, and shell scripting.</p>
-      <p><b>Focus:</b> Linux · Ubuntu · Bash</p>
-    </td>
-    <td width="50%">
-      <h3>🔧 Git & GitHub</h3>
-      <p>Version control practice, repository management, SSH authentication, and collaboration workflows.</p>
-      <p><b>Focus:</b> Git · GitHub · SSH</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>☁️ Cloud Engineering</h3>
-      <p>Developing practical knowledge of cloud services, infrastructure, and deployment concepts.</p>
-      <p><b>Focus:</b> AWS · Cloud Fundamentals</p>
-    </td>
-    <td width="50%">
-      <h3>⚙️ DevOps Automation</h3>
-      <p>Exploring scripting, containerization, and automated software delivery workflows.</p>
-      <p><b>Focus:</b> Bash · Docker · CI/CD</p>
-    </td>
-  </tr>
-</table>
-
-> Project links will be added as the repositories become available. Check my repositories for new work and updates.
-
----
-
-## 🔥 What I'm Working On
-
-- Strengthening my Linux and command-line fundamentals.
-- Improving my Git and GitHub workflow.
-- Practicing automation with Bash scripting.
-- Learning Cloud Computing and AWS fundamentals.
-- Exploring Docker and CI/CD through hands-on exercises.
-
----
 
 ## 📊 GitHub Analytics
 
