@@ -1,40 +1,98 @@
-<div align="center" width="50">
+<div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
+# Hi, I'm Mahmoud ElSayed 👋
 
-![Totals Hits](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_GITHUB_USERNAME&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE) <br>
+### ☁️ DevOps & Cloud Engineer 
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Mahmoudelsa7ed&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views"/>
+</p>
+
+<a href="https://www.linkedin.com/in/mahmoudabdelgelil">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Mahmoudelsa7ed">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
 </div>
 
-<hr></hr>
+---
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
-![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
+## 👨‍💻 About Me
 
-```python
-# tools_I_use organized
+I'm a Computer Systems student at **Ain Shams University**, passionate about Cloud Computing, DevOps, Linux, and Automation.
 
-class About(Me):
-    def __init__(self):
-        self.name = "Mahmoud"
-        self.education = "Computer Systems Undergrad @ Ain Shams University"
-        self.focus = "DevOps & Cloud Engineering"
-        self.languages = ["C", "C++", "C#", "Python", "Bash"]
-        self.devops_stack = ["AWS", "Docker", "Kubernetes", "Terraform"]
-        self.os = ["GNU/Linux", "Windows"]
+I'm building my skills through hands-on practice and practical projects, with a focus on understanding how to build, deploy, automate, and maintain reliable systems.
+
+- 🔭 Currently focusing on **Linux, Git, and DevOps fundamentals**
+- ☁️ Interested in **AWS Cloud and Cloud Infrastructure**
+- 🐧 Exploring **Linux Administration and Bash Scripting**
+- 🚀 Learning about **Docker, CI/CD, and Infrastructure as Code**
+- 🎯 Goal: Become a skilled **Cloud & DevOps Engineer**
+- 📚 Always learning and building new things
+
+---
+
+## 🛠️ Technologies & Tools
+
+### 🐧 Operating Systems & Scripting
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</p>
+
+### 🔧 Version Control & Development
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+</p>
+
+> I'm continuously learning and expanding my Cloud & DevOps skill set through practical exercises and projects.
+
+---
+
+## 🗺️ My DevOps Learning Roadmap
+
+```text
+Linux & Operating Systems
+          |
+          v
+      Git & GitHub
+          |
+          v
+ Bash Scripting & Automation
+          |
+          v
+ Docker & Containers
+          |
+          v
+     CI/CD Pipelines
+          |
+          v
+      AWS Cloud
+          |
+          v
+ Terraform & Infrastructure as Code
+          |
+          v
+ Kubernetes & Orchestration
+          |
+          v
+ Monitoring, Logging & Reliability
