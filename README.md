@@ -125,19 +125,10 @@ Learning to observe systems, investigate failures, and improve reliability over 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-night-rainbow.svg">
-  <img alt="3D contributions" src="./assets/profile-green-animate.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahmoudelsa7ed/Mahmoudelsa7ed/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahmoudelsa7ed/Mahmoudelsa7ed/output/github-snake.svg"/>
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Mahmoudelsa7ed/Mahmoudelsa7ed/output/github-snake-dark.svg"/>
 </picture>
-
-<br/>
-
-<img alt="snake" src="./assets/github-snake-blue.svg">
-
-<br/>
-
-<img src="./profile-summary-card-output/github_dark/3-stats.svg" width="48%"/>
-<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="48%"/>
-
 </div>
 ---
 
